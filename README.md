@@ -18,4 +18,4 @@ This repository contains my solutions to various LeetCode problems, implemented 
 - [Longest Palindrome](https://github.com/iTorrente99/Leetcode-Problems/blob/main/0005_LongestPalindrome.cs)
 
 ## Hard Problems
-- [Median Of Two Sorted Arrays](https://github.com/iTorrente99/Leetcode-Problems/blob/main/0001_FindMedianSortedArrays.cs)
+- [Median Of Two Sorted Arrays](https://github.com/iTorrente99/Leetcode-Problems/blob/main/0004_FindMedianSortedArrays.cs)
