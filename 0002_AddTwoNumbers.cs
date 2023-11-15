@@ -17,7 +17,7 @@ Input: l1 = [9,9,9,9,9,9,9], l2 = [9,9,9,9]
 Output: [8,9,9,9,0,0,0,1]
 
 SOLUTION:
-Time complexity -> O(N) 
+Time complexity -> O(n)
 
  * Definition for singly-linked list.
  * public class ListNode {
