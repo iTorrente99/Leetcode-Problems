@@ -5,17 +5,21 @@ This repository contains my solutions to various LeetCode problems, implemented 
 [![CodeFactor](https://www.codefactor.io/repository/github/itorrente99/leetcode-problems/badge)](https://www.codefactor.io/repository/github/itorrente99/leetcode-problems)
 
 ## Problem List
-1. [Easy Problems](#easy-problems)
-2. [Medium Problems](#medium-problems)
-3. [Hard Problems](#hard-problems)
+  [Easy Problems](#easy-problems)
+  [Medium Problems](#medium-problems)
+  [Hard Problems](#hard-problems)
 
 ## Easy Problems
 - [Two Sum](https://github.com/iTorrente99/Leetcode-Problems/blob/main/0001_TwoSum.cs)
+- [Is Palindrome Number](https://github.com/iTorrente99/Leetcode-Problems/blob/main/0009_IsPalindromeNumber.cs)
 
 ## Medium Problems
 - [Add Two Numbers](https://github.com/iTorrente99/Leetcode-Problems/blob/main/0002_AddTwoNumbers.cs)
 - [Length Of Longest Substring](https://github.com/iTorrente99/Leetcode-Problems/blob/main/0003_LengthOfLongestSubstring.cs)
 - [Longest Palindrome](https://github.com/iTorrente99/Leetcode-Problems/blob/main/0005_LongestPalindrome.cs)
+- [ZigZag Conversion](https://github.com/iTorrente99/Leetcode-Problems/blob/main/0006_ZigZagConversion.py)
+- [Reverse Integer](https://github.com/iTorrente99/Leetcode-Problems/blob/main/0007_ReverseInteger.cs)
+- [String To Integer (Atoi)](https://github.com/iTorrente99/Leetcode-Problems/blob/main/0008_StringToIntegerAtoi.cs)
 
 ## Hard Problems
 - [Median Of Two Sorted Arrays](https://github.com/iTorrente99/Leetcode-Problems/blob/main/0004_FindMedianSortedArrays.cs)
