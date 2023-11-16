@@ -95,7 +95,7 @@ public class Solution {
 
         for (int i = startIndex; i < str.Length; i++) {
             if (char.IsDigit(str[i])) {
-                result = result * 10 + (str[i] - '0');
+                result = (result * 10) + (str[i] - '0');
 
                 if (signMultiplier == 1 && result > Int32.MaxValue) {
                     return Int32.MaxValue;
