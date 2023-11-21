@@ -24,7 +24,7 @@ class Solution(object):
             if (min(height[i],height[j]) * (j - i)) > area:
                 area = (min(height[i],height[j]) * (j - i))
             if height[j] < height[i]:
-                j  -= 1
+                j -= 1
             else:
                 i += 1
         return area
